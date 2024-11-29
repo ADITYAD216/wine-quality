@@ -9,7 +9,7 @@ The goal of this project is to build a machine-learning model that predicts the 
   * Feature extraction
   * Model building and evaluation
     
-We use different machine learning models to classify the sentiment and compare their performance.
+We use different machine learning models to classify and compare their performance.
 # Dataset
 The dataset used in this project is the Wine Quality Dataset provided in . The dataset contains the following columns:
   * fixed acidity
@@ -51,7 +51,7 @@ you explore the dataset to understand the relationships between different featur
   *  Visualize correlations using a heatmap to understand which features are strongly correlated     with the wine quality.
   * Execute all the codes for exploratory data analysis and data wrangling without missing a single line.
   * Run the codes related to individual functions and their plots consecutively as given in the .ipynb file. These include:
-      *  Covariance matrix
+      * Covariance matrix
       * Adding category quality
       * Exploring statistical interactions of low, medium, and high quality.
   * Perform data exploration, frequency distributions, and all the required plots for data visualization one by one, following the given sequence.
